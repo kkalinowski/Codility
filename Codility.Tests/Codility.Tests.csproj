@@ -61,6 +61,7 @@
     <Compile Include="L4.Sorting\TriangleTests.cs" />
     <Compile Include="L4.Sorting\MaxProductOfThreeTests.cs" />
     <Compile Include="L4.Sorting\DistinctTests.cs" />
+    <Compile Include="L5.StacksAndQueues\FishTests.cs" />
     <Compile Include="L5.StacksAndQueues\StoneWallTests.cs" />
     <Compile Include="L5.StacksAndQueues\NestingTests.cs" />
     <Compile Include="L5.StacksAndQueues\BracketsTests.cs" />

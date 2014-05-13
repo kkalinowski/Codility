@@ -53,6 +53,7 @@
     <Compile Include="L4.Sorting\Triangle.cs" />
     <Compile Include="L4.Sorting\MaxProductOfThree.cs" />
     <Compile Include="L4.Sorting\Distinct.cs" />
+    <Compile Include="L5.StacksAndQueues\Fish.cs" />
     <Compile Include="L5.StacksAndQueues\StoneWall.cs" />
     <Compile Include="L5.StacksAndQueues\Nesting.cs" />
     <Compile Include="L5.StacksAndQueues\Brackets.cs" />
