@@ -57,6 +57,7 @@
     <Compile Include="L5.StacksAndQueues\StoneWall.cs" />
     <Compile Include="L5.StacksAndQueues\Nesting.cs" />
     <Compile Include="L5.StacksAndQueues\Brackets.cs" />
+    <Compile Include="L6.Leader\Dominator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
