@@ -62,6 +62,7 @@
     <Compile Include="L7.MaximumSliceProblem\MaxDoubleSliceSum.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxProfit.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxSliceSum.cs" />
+    <Compile Include="L8.PrimeAndCompositeNumbers\MinPerimeterRectangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
