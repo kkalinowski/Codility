@@ -70,6 +70,7 @@
     <Compile Include="L7.MaximumSliceProblem\MaxSliceSumTests.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxProfitTests.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxDoubleSliceSumTests.cs" />
+    <Compile Include="L8.PrimeAndCompositeNumbers\CountFactorsTests.cs" />
     <Compile Include="L8.PrimeAndCompositeNumbers\MinPerimeterRectangleTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
