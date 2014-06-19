@@ -67,6 +67,7 @@
     <Compile Include="L5.StacksAndQueues\BracketsTests.cs" />
     <Compile Include="L6.Leader\EquiLeaderTests.cs" />
     <Compile Include="L6.Leader\DominatorTests.cs" />
+    <Compile Include="L7.MaximumSliceProblem\MaxSliceSumTests.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxProfitTests.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxDoubleSliceSumTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

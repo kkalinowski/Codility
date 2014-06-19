@@ -59,8 +59,9 @@
     <Compile Include="L5.StacksAndQueues\Brackets.cs" />
     <Compile Include="L6.Leader\EquiLeader.cs" />
     <Compile Include="L6.Leader\Dominator.cs" />
-    <Compile Include="L7.MaximumSliceProblem\MaxProfit.cs" />
     <Compile Include="L7.MaximumSliceProblem\MaxDoubleSliceSum.cs" />
+    <Compile Include="L7.MaximumSliceProblem\MaxProfit.cs" />
+    <Compile Include="L7.MaximumSliceProblem\MaxSliceSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
